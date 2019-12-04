@@ -1,0 +1,15 @@
+
+tbody{
+   
+    width: 100px;
+    height: 100px;
+}
+.t{
+    border: 1px solid black;
+}
+table{
+    margin: 0 auto;
+}
+body{
+    background: linear-gradient(to right, #4cff3c 0%, #5ce657 100%) !important;
+}

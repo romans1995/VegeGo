@@ -1,0 +1,18 @@
+html,body{
+    color: #fff;
+}
+.lni{
+    font-size: 64px;
+}
+
+.bg{
+    background: linear-gradient(to right, #4cff3c 0%, #2dff5a 100%) !important;
+}
+
+.regform{
+    box-shadow: 0px 8px 9px 0px rgba(69, 69, 69, 0.25);
+}
+
+.sign{
+    color: #000;
+}
